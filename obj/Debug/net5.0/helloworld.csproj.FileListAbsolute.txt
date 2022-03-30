@@ -1,0 +1,15 @@
+/Users/samukelolukhele/Desktop/Documents/Web-Development-Training/C#/Learning-fundamentals/helloworld/bin/Debug/net5.0/helloworld.deps.json
+/Users/samukelolukhele/Desktop/Documents/Web-Development-Training/C#/Learning-fundamentals/helloworld/bin/Debug/net5.0/helloworld.runtimeconfig.json
+/Users/samukelolukhele/Desktop/Documents/Web-Development-Training/C#/Learning-fundamentals/helloworld/bin/Debug/net5.0/helloworld.runtimeconfig.dev.json
+/Users/samukelolukhele/Desktop/Documents/Web-Development-Training/C#/Learning-fundamentals/helloworld/bin/Debug/net5.0/helloworld.dll
+/Users/samukelolukhele/Desktop/Documents/Web-Development-Training/C#/Learning-fundamentals/helloworld/bin/Debug/net5.0/ref/helloworld.dll
+/Users/samukelolukhele/Desktop/Documents/Web-Development-Training/C#/Learning-fundamentals/helloworld/bin/Debug/net5.0/helloworld.pdb
+/Users/samukelolukhele/Desktop/Documents/Web-Development-Training/C#/Learning-fundamentals/helloworld/obj/Debug/net5.0/helloworld.csprojAssemblyReference.cache
+/Users/samukelolukhele/Desktop/Documents/Web-Development-Training/C#/Learning-fundamentals/helloworld/obj/Debug/net5.0/helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samukelolukhele/Desktop/Documents/Web-Development-Training/C#/Learning-fundamentals/helloworld/obj/Debug/net5.0/helloworld.AssemblyInfoInputs.cache
+/Users/samukelolukhele/Desktop/Documents/Web-Development-Training/C#/Learning-fundamentals/helloworld/obj/Debug/net5.0/helloworld.AssemblyInfo.cs
+/Users/samukelolukhele/Desktop/Documents/Web-Development-Training/C#/Learning-fundamentals/helloworld/obj/Debug/net5.0/helloworld.csproj.CoreCompileInputs.cache
+/Users/samukelolukhele/Desktop/Documents/Web-Development-Training/C#/Learning-fundamentals/helloworld/obj/Debug/net5.0/helloworld.dll
+/Users/samukelolukhele/Desktop/Documents/Web-Development-Training/C#/Learning-fundamentals/helloworld/obj/Debug/net5.0/ref/helloworld.dll
+/Users/samukelolukhele/Desktop/Documents/Web-Development-Training/C#/Learning-fundamentals/helloworld/obj/Debug/net5.0/helloworld.pdb
+/Users/samukelolukhele/Desktop/Documents/Web-Development-Training/C#/Learning-fundamentals/helloworld/obj/Debug/net5.0/helloworld.genruntimeconfig.cache
